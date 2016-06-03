@@ -1,2 +1,0 @@
-webpackJsonp([0,3],{0:function(n,e,t){t(1);var a=t(34);document.body.appendChild(a())},34:function(n,e){n.exports=function(){var n=document.createElement("h1");return n.className="Kisa",n.innerHTML="Бу-бу Кися! :)",n}}});
-//# sourceMappingURL=app.780cb823083dc7688ee2.js.map
